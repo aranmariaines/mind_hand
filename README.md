@@ -6,7 +6,6 @@ I am Maria Ines and this is a repository where I share the analysis I did on dif
 
 
 # Repo structure
-The repo is order as follow:
 
 1. Excel anlaysis
 2. Analyis with SQL
