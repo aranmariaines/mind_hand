@@ -1,4 +1,4 @@
-* Excel
+# Excel
 
 Data from a stationery store is provided: List of items sold by day and region.
 
