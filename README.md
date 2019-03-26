@@ -7,6 +7,7 @@ I am Maria Ines and this is a repository where I share the analysis I did on dif
 
 # Repo structure
 
-1. Excel anlaysis
-2. Analyis with SQL
-3. Tableau dashboard
+1. Excel: Analytics in Excel
+2. Excel DVD Rental: Analytics in Excel 
+3. SQL: SQL queries for analysis
+4. Tableau: Dashboard
